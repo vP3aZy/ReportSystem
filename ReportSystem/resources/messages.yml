@@ -1,0 +1,10 @@
+#Here you can setup all the Form Languages
+
+#This is the Message if no Player is given!
+NoPlayerGiven: "§cThere is no player given!"
+
+#This is the Message if no Reason is given!
+NoReasonGiven: "§cThere is no reason given!"
+
+#This is the Message if the report was sendet!
+ReportSendet: "§aThe report was successfully sendet!"

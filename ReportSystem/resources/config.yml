@@ -1,0 +1,30 @@
+#Here you can Setup the Plugin!
+
+#Command Setup!
+Command: "report"
+Description: "Report a Player!"
+Usage: "/report"
+
+#Form Setup!
+FormTitle: "§bReport§7: "
+Input1: "§7Give the Playername: "
+Input2: "§7Give the Reason: "
+
+#DiscordWebhook Setup!
+
+#This Means the Webhook URL!
+Link: ""
+
+#Here you can set The webhook's Username!
+Username: "Webhook"
+
+#Here you can set the webhook's Avatar!
+Avatar: ""
+
+#DiscordMessage Setup!
+
+#This Means the Title of the Message!
+EmbedTitle: "REPORT!!!"
+
+#This Means the Footer of the Message!
+EmbedFooter: "Ban?"

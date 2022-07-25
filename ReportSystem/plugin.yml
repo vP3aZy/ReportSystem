@@ -1,0 +1,11 @@
+name: ReportSystem
+main: vP3aZy\ReportSystem\ReportSystem
+version: 1.0.0
+api: ["4.5.1"]
+author: "vP3aZy"
+website: "https://github.com/vP3aZy"
+description: "ReportSystem plugin for your PocketMine Server!"
+
+permissions:
+  report.view:
+    default: OP
