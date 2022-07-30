@@ -15,6 +15,6 @@ class ReportCommand extends Command {
 
     public function execute(CommandSender $player, string $commandLabel, array $args) {
         ReportForm::reportForm($player);
+        $player->sendMessage(ApplySystem::getInstance()->messages->get("msg"));
     }
-
 }
